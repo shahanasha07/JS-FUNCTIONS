@@ -25,4 +25,4 @@
 function celcius(c){
     console.log((c * 9/5) + 32);
 }
-celcius(5);
+celcius(15);
