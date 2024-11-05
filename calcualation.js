@@ -2,7 +2,7 @@
 //    return (a+b)
 // }
 
-//  var ressult=sum(30,3)
+//  var ressult=sum(50,3)
 //  console.log(ressult)
 
 
